@@ -1,0 +1,471 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=1000 deinterlace=1
+#EXTINF:0 tvg-name="pervy",Первый Канал
+http://tv.makeevka.com/channel/1/index.m3u8
+#EXTINF:0 tvg-name="rossia1",Россия 1
+http://tv.makeevka.com/channel/2/index.m3u8
+#EXTINF:0 tvg-name="match-tv",МАТЧ!
+http://tv.makeevka.com/channel/3/index.m3u8
+#EXTINF:0 tvg-name="ntv",НТВ
+http://tv.makeevka.com/channel/4/index.m3u8
+#EXTINF:0 tvg-name="5kanal-ru",5 канал
+http://tv.makeevka.com/channel/5/index.m3u8
+#EXTINF:0 tvg-name="kultura",Россия К
+http://tv.makeevka.com/channel/6/index.m3u8
+#EXTINF:0 tvg-name="rossia-24",Россия 24
+http://tv.makeevka.com/channel/7/index.m3u8
+#EXTINF:0 tvg-name="karusel",Карусель
+http://tv.makeevka.com/channel/8/index.m3u8
+#EXTINF:0 tvg-name="otr",ОТР
+http://tv.makeevka.com/channel/9/index.m3u8
+#EXTINF:0 tvg-name="tvcentr",ТВЦ
+http://tv.makeevka.com/channel/10/index.m3u8
+#EXTINF:0 tvg-name="rentv",РЕН ТВ
+http://tv.makeevka.com/channel/11/index.m3u8
+#EXTINF:0 tvg-name="spas",Спас
+http://tv.makeevka.com/channel/12/index.m3u8
+#EXTINF:0 tvg-name="sts",СТС
+http://tv.makeevka.com/channel/13/index.m3u8
+#EXTINF:0 tvg-name="domashny",Домашний
+http://tv.makeevka.com/channel/14/index.m3u8
+#EXTINF:0 tvg-name="tv3-ru",ТВ3
+http://tv.makeevka.com/channel/15/index.m3u8
+#EXTINF:0 tvg-name="piatnica",Пятница
+http://tv.makeevka.com/channel/16/index.m3u8
+#EXTINF:0 tvg-name="zvezda",Звезда
+http://tv.makeevka.com/channel/17/index.m3u8
+#EXTINF:0 tvg-name="mir",Мир
+http://tv.makeevka.com/channel/18/index.m3u8
+#EXTINF:0 tvg-name="tnt",ТНТ
+http://tv.makeevka.com/channel/19/index.m3u8
+#EXTINF:0 tvg-name="muztv",Муз ТВ
+http://tv.makeevka.com/channel/20/index.m3u8
+#EXTINF:0 tvg-name="1-respublik", 1 Республиканский
+http://tv.makeevka.com/channel/21/index.m3u8
+#EXTINF:0 tvg-name="oplot1",Оплот ТВ
+http://tv.makeevka.com/channel/22/index.m3u8
+#EXTINF:0 tvg-name="union",ТРК Юнион
+http://tv.makeevka.com/channel/23/index.m3u8
+#EXTINF:0 tvg-name="novorossia",Новороссия
+http://tv.makeevka.com/channel/24/index.m3u8
+#EXTINF:0 tvg-name="oplot2", Оплот ТВ 2
+http://tv.makeevka.com/channel/25/index.m3u8
+#EXTINF:0 tvg-name="tnt4",ТНТ4
+http://tv.makeevka.com/channel/31/index.m3u8
+#EXTINF:0 tvg-name="discovery-channel",Discovery Channel
+http://tv.makeevka.com/channel/33/index.m3u8
+#EXTINF:0 tvg-name="hd-life",HD Life
+http://tv.makeevka.com/channel/34/index.m3u8
+#EXTINF:0 tvg-name="ntv-style",НТВ Стиль
+http://tv.makeevka.com/channel/37/index.m3u8
+#EXTINF:0 tvg-name="galaxy-tv",Galaxy
+http://tv.makeevka.com/channel/38/index.m3u8
+#EXTINF:0 tvg-name="viasat-explore",Viasat Explorer
+http://tv.makeevka.com/channel/40/index.m3u8
+#EXTINF:0 tvg-name="viasat-history",Viasat History
+http://tv.makeevka.com/channel/41/index.m3u8
+#EXTINF:0 tvg-name="viasat-nature-cee",Viasat Nature
+http://tv.makeevka.com/channel/42/index.m3u8
+#EXTINF:0 tvg-name="id-xtra-ru",Investigation Discovery
+http://tv.makeevka.com/channel/44/index.m3u8
+#EXTINF:0 tvg-name="domashnie-zhivotnye",Домашние Животные
+http://tv.makeevka.com/channel/45/index.m3u8
+#EXTINF:0 tvg-name="nauka-20",Наука
+http://tv.makeevka.com/channel/46/index.m3u8
+#EXTINF:0 tvg-name="zhivaya-planeta",Живая Планета
+http://tv.makeevka.com/channel/49/index.m3u8
+#EXTINF:0 tvg-name="pobeda",Победа
+http://tv.makeevka.com/channel/51/index.m3u8
+#EXTINF:0 tvg-name="eurosport1",Eurosport 1
+http://tv.makeevka.com/channel/52/index.m3u8
+#EXTINF:0 tvg-name="eurosport2",Eurosport 2
+http://tv.makeevka.com/channel/54/index.m3u8
+#EXTINF:0 tvg-name="extreme-sports",Extreme Sports
+http://tv.makeevka.com/channel/56/index.m3u8
+#EXTINF:0 tvg-name="e-tv",E TV
+http://tv.makeevka.com/channel/57/index.m3u8
+#EXTINF:0 tvg-name="fightbox-hd",Fightbox
+http://tv.makeevka.com/channel/58/index.m3u8
+#EXTINF:0 tvg-name="ocean-tv",Ocean TV
+http://tv.makeevka.com/channel/59/index.m3u8
+#EXTINF:0 tvg-name="viasat-sport",Viasat Sport
+http://tv.makeevka.com/channel/60/index.m3u8
+#EXTINF:0 tvg-name="mir-basketbola",Мир баскетбола
+http://tv.makeevka.com/channel/61/index.m3u8
+#EXTINF:0 tvg-name="match-boets", Матч! Боец
+http://tv.makeevka.com/channel/62/index.m3u8
+#EXTINF:0 tvg-name="box-tv",Бокс ТВ
+http://tv.makeevka.com/channel/63/index.m3u8
+#EXTINF:0 tvg-name="match-premier",Матч Премьер
+http://tv.makeevka.com/channel/66/index.m3u8
+#EXTINF:0 tvg-name="match-arena",Матч! Арена
+http://tv.makeevka.com/channel/70/index.m3u8
+#EXTINF:0 tvg-name="match-igra",Матч! Игра
+http://tv.makeevka.com/channel/72/index.m3u8
+#EXTINF:0 tvg-name="match-nash-sport",Матч! Страна
+http://tv.makeevka.com/channel/74/index.m3u8
+#EXTINF:0 tvg-name="match-planeta",Матч! Планета
+http://tv.makeevka.com/channel/76/index.m3u8
+#EXTINF:0 tvg-name="match-football1",Матч! Футбол 1
+http://tv.makeevka.com/channel/77/index.m3u8
+#EXTINF:0 tvg-name="match-football2",Матч! Футбол 2
+http://tv.makeevka.com/channel/79/index.m3u8
+#EXTINF:0 tvg-name="match-football3",Матч! Футбол 3
+http://tv.makeevka.com/channel/81/index.m3u8
+#EXTINF:0 tvg-name="2na2",2x2
+http://tv.makeevka.com/channel/83/index.m3u8
+#EXTINF:0 tvg-name="360-podmoskovie",360°
+http://tv.makeevka.com/channel/84/index.m3u8
+#EXTINF:0 tvg-name="365-dnej",365 Дней
+http://tv.makeevka.com/channel/85/index.m3u8
+#EXTINF:0 tvg-name="russia-today",Russia Today
+http://tv.makeevka.com/channel/86/index.m3u8
+#EXTINF:0 tvg-name="7tv",7 Канал
+http://tv.makeevka.com/channel/87/index.m3u8
+#EXTINF:0 tvg-name="8kanal-ru",8 канал
+http://tv.makeevka.com/channel/88/index.m3u8
+#EXTINF:0 tvg-name="pesiko",Пёс и Ко
+http://tv.makeevka.com/channel/89/index.m3u8
+#EXTINF:0 tvg-name="tnomer",Тномер
+http://tv.makeevka.com/channel/90/index.m3u8
+#EXTINF:0 tvg-name="travel-adventure",Travel+Adventure
+http://tv.makeevka.com/channel/91/index.m3u8
+#EXTINF:0 tvg-name="vremia",Время далекое и близкое
+http://tv.makeevka.com/channel/92/index.m3u8
+#EXTINF:0 tvg-name="doktor",Доктор
+http://tv.makeevka.com/channel/93/index.m3u8
+#EXTINF:0 tvg-name="zoopark",Зоопарк
+http://tv.makeevka.com/channel/94/index.m3u8
+#EXTINF:0 tvg-name="istoria",История
+http://tv.makeevka.com/channel/95/index.m3u8
+#EXTINF:0 tvg-name="mama",Мама
+http://tv.makeevka.com/channel/96/index.m3u8
+#EXTINF:0 tvg-name="mir-24",Мир 24
+http://tv.makeevka.com/channel/97/index.m3u8
+#EXTINF:0 tvg-name="moskva-24",Москва 24
+http://tv.makeevka.com/channel/98/index.m3u8
+#EXTINF:0 tvg-name="ntv-pravo",НТВ Право
+http://tv.makeevka.com/channel/99/index.m3u8
+#EXTINF:0 tvg-name="prodvizhenie",Продвижение (Москва)
+http://tv.makeevka.com/channel/100/index.m3u8
+#EXTINF:0 tvg-name="prodvizhenie-siberia",Продвижение (Сибирь)
+http://tv.makeevka.com/channel/101/index.m3u8
+#EXTINF:0 tvg-name="rbk",РБК
+http://tv.makeevka.com/channel/102/index.m3u8
+#EXTINF:0 tvg-name="amedia1",Amedia 1
+http://tv.makeevka.com/channel/106/index.m3u8
+#EXTINF:0 tvg-name="amedia2",Amedia 2
+http://tv.makeevka.com/channel/107/index.m3u8
+#EXTINF:0 tvg-name="amedia-premium",Amedia Premium
+http://tv.makeevka.com/channel/108/index.m3u8
+#EXTINF:0 tvg-name="filmbox-ru",Filmbox
+http://tv.makeevka.com/channel/111/index.m3u8
+#EXTINF:0 tvg-name="filmbox-arthouse",Filmbox Arthouse
+http://tv.makeevka.com/channel/112/index.m3u8
+#EXTINF:0 tvg-name="hollywood",Hollywood
+http://tv.makeevka.com/channel/113/index.m3u8
+#EXTINF:0 tvg-name="bolt",Bolt
+http://tv.makeevka.com/channel/117/index.m3u8
+#EXTINF:0 tvg-name="tvxxi",TV XXI
+http://tv.makeevka.com/channel/118/index.m3u8
+#EXTINF:0 tvg-name="tv1000",viju TV1000
+http://tv.makeevka.com/channel/119/index.m3u8
+#EXTINF:0 tvg-name="tv1000-action",viju action
+http://tv.makeevka.com/channel/120/index.m3u8
+#EXTINF:0 tvg-name="tv1000-russkoe-kino",TV1000 русское кино
+http://tv.makeevka.com/channel/121/index.m3u8
+#EXTINF:0 tvg-name="domkino",Дом кино
+http://tv.makeevka.com/channel/125/index.m3u8
+#EXTINF:0 tvg-name="evrokino",ЕвроКино
+http://tv.makeevka.com/channel/126/index.m3u8
+#EXTINF:0 tvg-name="indiyskoe-kino",Индийское Кино
+http://tv.makeevka.com/channel/127/index.m3u8
+#EXTINF:0 tvg-name="kinokomedia",Кинокомедия
+http://tv.makeevka.com/channel/129/index.m3u8
+#EXTINF:0 tvg-name="kinosvidanie",Киносвидание
+http://tv.makeevka.com/channel/131/index.m3u8
+#EXTINF:0 tvg-name="kinosemiya",Киносемья
+http://tv.makeevka.com/channel/132/index.m3u8
+#EXTINF:0 tvg-name="kinoseria",Киносерия
+http://tv.makeevka.com/channel/133/index.m3u8
+#EXTINF:0 tvg-name="kinoxit",Кинохит
+http://tv.makeevka.com/channel/134/index.m3u8
+#EXTINF:0 tvg-name="mir-seriala",Мир сериала
+http://tv.makeevka.com/channel/135/index.m3u8
+#EXTINF:0 tvg-name="nashe-novoe-kino",Наше Новое Кино
+http://tv.makeevka.com/channel/136/index.m3u8
+#EXTINF:0 tvg-name="nst",НСТ
+http://tv.makeevka.com/channel/137/index.m3u8
+#EXTINF:0 tvg-name="ntv-serial",НТВ Сериал
+http://tv.makeevka.com/channel/138/index.m3u8
+#EXTINF:0 tvg-name="illuzion-plus",Иллюзион
+http://tv.makeevka.com/channel/139/index.m3u8
+#EXTINF:0 tvg-name="rodnoe-kino",Родное Кино
+http://tv.makeevka.com/channel/140/index.m3u8
+#EXTINF:0 tvg-name="russkaya-komedia",Русская комедия 
+http://tv.makeevka.com/channel/141/index.m3u8
+#EXTINF:0 tvg-name="russky-bestseller",Русский бестселлер
+http://tv.makeevka.com/channel/142/index.m3u8
+#EXTINF:0 tvg-name="russky-roman",Русский роман
+http://tv.makeevka.com/channel/143/index.m3u8
+#EXTINF:0 tvg-name="kinojam2",KinoJam 2
+http://tv.makeevka.com/channel/144/index.m3u8
+#EXTINF:0 tvg-name="cinema-ru",Cinema
+http://tv.makeevka.com/channel/145/index.m3u8
+#EXTINF:0 tvg-name="ntv-xit",НТВ-ХИТ
+http://tv.makeevka.com/channel/147/index.m3u8
+#EXTINF:0 tvg-name="lubimoe-kino",Наше Любимое кино
+http://tv.makeevka.com/channel/148/index.m3u8
+#EXTINF:0 tvg-name="russky-detektiv",Русский Детектив
+http://tv.makeevka.com/channel/149/index.m3u8
+#EXTINF:0 tvg-name="flixsnip",FlixSnip
+http://tv.makeevka.com/channel/150/index.m3u8
+#EXTINF:0 tvg-name="bridge-hd",Bridge TV Deluxe 
+http://tv.makeevka.com/channel/151/index.m3u8
+#EXTINF:0 tvg-name="bridge-tv",Bridge TV
+http://tv.makeevka.com/channel/152/index.m3u8
+#EXTINF:0 tvg-name="bridge-tv-dance",Bridge TV Шлягер
+http://tv.makeevka.com/channel/153/index.m3u8
+#EXTINF:0 tvg-name="bridge-tv-dance",BRIDGE TV HITS
+http://tv.makeevka.com/channel/154/index.m3u8
+#EXTINF:0 tvg-name="bridge-tv-ruxit",BRIDGE TV русский хит
+http://tv.makeevka.com/channel/155/index.m3u8
+#EXTINF:0 tvg-name="europa-plus-tv",Europa Plus TV
+http://tv.makeevka.com/channel/156/index.m3u8
+#EXTINF:0 tvg-name="mcm-top",MCM Top
+http://tv.makeevka.com/channel/158/index.m3u8
+#EXTINF:0 tvg-name="c-music-tv",C Music TV
+http://tv.makeevka.com/channel/159/index.m3u8
+#EXTINF:0 tvg-name="classic-music",Classic Music
+http://tv.makeevka.com/channel/160/index.m3u8
+#EXTINF:0 tvg-name="acb-tv",9 волна
+http://tv.makeevka.com/channel/161/index.m3u8
+#EXTINF:0 tvg-name="vostok-tv",Восток ТВ
+http://tv.makeevka.com/channel/162/index.m3u8
+#EXTINF:0 tvg-name="maydan",Майдан
+http://tv.makeevka.com/channel/163/index.m3u8
+#EXTINF:0 tvg-name="ru-tv",Ru TV
+http://tv.makeevka.com/channel/164/index.m3u8
+#EXTINF:0 tvg-name="shanson-tv",Шансон ТВ
+http://tv.makeevka.com/channel/165/index.m3u8
+#EXTINF:0 tvg-name="o2tv",O2TV
+http://tv.makeevka.com/channel/166/index.m3u8
+#EXTINF:0 tvg-name="musicbox",Russian Music Box
+http://tv.makeevka.com/channel/167/index.m3u8
+#EXTINF:0 tvg-name="radio-strana-fm-tv",Страна FM
+http://tv.makeevka.com/channel/168/index.m3u8
+#EXTINF:0 tvg-name="muzyka-pervogo",Музыка Первого
+http://tv.makeevka.com/channel/169/index.m3u8
+#EXTINF:0 tvg-name="tnt-music",ТНТ Music
+http://tv.makeevka.com/channel/170/index.m3u8
+#EXTINF:0 tvg-name="multimania",Мультиландия
+http://tv.makeevka.com/channel/171/index.m3u8
+#EXTINF:0 tvg-name="ani",ani
+http://tv.makeevka.com/channel/172/index.m3u8
+#EXTINF:0 tvg-name="ducktv",Duck TV
+http://tv.makeevka.com/channel/173/index.m3u8
+#EXTINF:0 tvg-name="detsky-mir",Детский мир
+http://tv.makeevka.com/channel/174/index.m3u8
+#EXTINF:0 tvg-name="disney",Disney Channel
+http://tv.makeevka.com/channel/175/index.m3u8
+#EXTINF:0 tvg-name="gulli-girl",Gulli Girl
+http://tv.makeevka.com/channel/176/index.m3u8
+#EXTINF:0 tvg-name="sts-kids-hd",СТС Kids
+http://tv.makeevka.com/channel/177/index.m3u8
+#EXTINF:0 tvg-name="detsky",Уникум
+http://tv.makeevka.com/channel/179/index.m3u8
+#EXTINF:0 tvg-name="o_",О!
+http://tv.makeevka.com/channel/180/index.m3u8
+#EXTINF:0 tvg-name="tiji",TiJi
+http://tv.makeevka.com/channel/181/index.m3u8
+#EXTINF:0 tvg-name="nickelodeon-ru",Nickelodeon
+http://tv.makeevka.com/channel/182/index.m3u8
+#EXTINF:0 tvg-name="mult",Мульт
+http://tv.makeevka.com/channel/183/index.m3u8
+#EXTINF:0 tvg-name="multimuzyka",Мультимузыка
+http://tv.makeevka.com/channel/185/index.m3u8
+#EXTINF:0 tvg-name="v-gostiax-u-skazki",В гостях у сказки
+http://tv.makeevka.com/channel/186/index.m3u8
+#EXTINF:0 tvg-name="ege-tv",ЕГЭ ТВ
+http://tv.makeevka.com/channel/187/index.m3u8
+#EXTINF:0 tvg-name="centralnoye-tv",Центральное ТВ
+http://tv.makeevka.com/channel/188/index.m3u8
+#EXTINF:0 tvg-name="soyuz",Союз
+http://tv.makeevka.com/channel/189/index.m3u8
+#EXTINF:0 tvg-name="nostalgia",Ностальгия
+http://tv.makeevka.com/channel/190/index.m3u8
+#EXTINF:0 tvg-name="dialogi-o-rybalke",Диалоги о Рыбалке
+http://tv.makeevka.com/channel/194/index.m3u8
+#EXTINF:0 tvg-name="dikiy",Дикий
+http://tv.makeevka.com/channel/197/index.m3u8
+#EXTINF:0 tvg-name="oxota-i-rybalka",Охота и Рыбалка
+http://tv.makeevka.com/channel/198/index.m3u8
+#EXTINF:0 tvg-name="kto-est-kto",Кто есть кто
+http://tv.makeevka.com/channel/199/index.m3u8
+#EXTINF:0 tvg-name="zal-suda",Зал суда
+http://tv.makeevka.com/channel/200/index.m3u8
+#EXTINF:0 tvg-name="omirtv",Открытый мир. Здоровье
+http://tv.makeevka.com/channel/201/index.m3u8
+#EXTINF:0 tvg-name="poexali",ПOЕХАЛИ!
+http://tv.makeevka.com/channel/202/index.m3u8
+#EXTINF:0 tvg-name="super",суббота
+http://tv.makeevka.com/channel/203/index.m3u8
+#EXTINF:0 tvg-name="pervy-vegetariansky",Первый Вегетарианский
+http://tv.makeevka.com/channel/204/index.m3u8
+#EXTINF:0 tvg-name="tancuj",Танцуй!
+http://tv.makeevka.com/channel/205/index.m3u8
+#EXTINF:0 tvg-name="tochka-otryva",Точка отрыва
+http://tv.makeevka.com/channel/206/index.m3u8
+#EXTINF:0 tvg-name="usadba",Усадьба-ТВ
+http://tv.makeevka.com/channel/207/index.m3u8
+#EXTINF:0 tvg-name="amedia-hit",Amedia Hit
+http://tv.makeevka.com/channel/208/index.m3u8
+#EXTINF:0 tvg-name="kaleydoskop-tv",Калейдоскоп ТВ
+http://tv.makeevka.com/channel/209/index.m3u8
+#EXTINF:0 tvg-name="gags-network",Gagsnetwork
+http://tv.makeevka.com/channel/210/index.m3u8
+#EXTINF:0 tvg-name="texno-24",Техно 24
+http://tv.makeevka.com/channel/211/index.m3u8
+#EXTINF:0 tvg-name="tro",БелРос
+http://tv.makeevka.com/channel/213/index.m3u8
+#EXTINF:0 tvg-name="rtg-tv",RTG TV
+http://tv.makeevka.com/channel/214/index.m3u8
+#EXTINF:0 tvg-name="sony-scifi",.sci-fi
+http://tv.makeevka.com/channel/216/index.m3u8
+#EXTINF:0 tvg-name="sony-turbo",.black
+http://tv.makeevka.com/channel/217/index.m3u8
+#EXTINF:0 tvg-name="sony-tv",.red
+http://tv.makeevka.com/channel/218/index.m3u8
+#EXTINF:0 tvg-name="mir-uvlecheniy",КтоКуда
+http://tv.makeevka.com/channel/220/index.m3u8
+#EXTINF:0 tvg-name="world-fashion-channel",World Fashion
+http://tv.makeevka.com/channel/221/index.m3u8
+#EXTINF:0 tvg-name="avto24",АВТО24
+http://tv.makeevka.com/channel/222/index.m3u8
+#EXTINF:0 tvg-name="avto-plus",Авто Плюс
+http://tv.makeevka.com/channel/223/index.m3u8
+#EXTINF:0 tvg-name="bobior",Бобер
+http://tv.makeevka.com/channel/224/index.m3u8
+#EXTINF:0 tvg-name="da-vinci",Да Винчи
+http://tv.makeevka.com/channel/225/index.m3u8
+#EXTINF:0 tvg-name="muzhskoy",Мужской
+http://tv.makeevka.com/channel/226/index.m3u8
+#EXTINF:0 tvg-name="zhara",ЖАРА
+http://tv.makeevka.com/channel/227/index.m3u8
+#EXTINF:0 tvg-name="zhivi",Живи
+http://tv.makeevka.com/channel/228/index.m3u8
+#EXTINF:0 tvg-name="zagorodnaya-zhizn",Загородная Жизнь
+http://tv.makeevka.com/channel/229/index.m3u8
+#EXTINF:0 tvg-name="kvn-tv",КВН ТВ
+http://tv.makeevka.com/channel/231/index.m3u8
+#EXTINF:0 tvg-name="sarafan",Сарафан ТВ
+http://tv.makeevka.com/channel/232/index.m3u8
+#EXTINF:0 tvg-name="russky-illuzion",Русский Иллюзион
+http://tv.makeevka.com/channel/235/index.m3u8
+#EXTINF:0 tvg-name="morskoy",Морской
+http://tv.makeevka.com/channel/236/index.m3u8
+#EXTINF:0 tvg-name="moya-planeta",Моя Планета
+http://tv.makeevka.com/channel/237/index.m3u8
+#EXTINF:0 tvg-name="muzhskoe-kino",Мужское кино
+http://tv.makeevka.com/channel/238/index.m3u8
+#EXTINF:0 tvg-name="che",ЧЕ
+http://tv.makeevka.com/channel/240/index.m3u8
+#EXTINF:0 tvg-name="radost-moya",Радость моя
+http://tv.makeevka.com/channel/241/index.m3u8
+#EXTINF:0 tvg-name="yu",Ю ТВ
+http://tv.makeevka.com/channel/243/index.m3u8
+#EXTINF:0 tvg-name="sovsek",Совершенно Секретно
+http://tv.makeevka.com/channel/244/index.m3u8
+#EXTINF:0 tvg-name="sts-love",СТС Love
+http://tv.makeevka.com/channel/245/index.m3u8
+#EXTINF:0 tvg-name="star-family",Star Family
+http://tv.makeevka.com/channel/247/index.m3u8
+#EXTINF:0 tvg-name="star-cinema",Star Cinema
+http://tv.makeevka.com/channel/248/index.m3u8
+#EXTINF:0 tvg-name="start-air",START Air
+http://tv.makeevka.com/channel/249/index.m3u8
+#EXTINF:0 tvg-name="start-world",START World
+http://tv.makeevka.com/channel/250/index.m3u8
+#EXTINF:0 tvg-name="kinoxit",Кинохит
+http://tv.makeevka.com/channel/251/index.m3u8
+#EXTINF:0 tvg-name="kinomiks",Киномикс
+http://tv.makeevka.com/channel/252/index.m3u8
+#EXTINF:0 tvg-name="kinouzhas",Киноужас
+http://tv.makeevka.com/channel/253/index.m3u8
+#EXTINF:0 tvg-name="mosfilm",Мосфильм. Золотая Коллекция
+http://tv.makeevka.com/channel/254/index.m3u8
+#EXTINF:0 tvg-name="timeless-dizi",Timeless Dizi Channel
+http://tv.makeevka.com/channel/255/index.m3u8
+#EXTINF:0 tvg-name="zee-tv",Zee TV
+http://tv.makeevka.com/channel/256/index.m3u8
+#EXTINF:0 tvg-name="dorama",Дорама
+http://tv.makeevka.com/channel/257/index.m3u8
+#EXTINF:0 tvg-name="kluch",Ключ
+http://tv.makeevka.com/channel/258/index.m3u8
+#EXTINF:0 tvg-name="teatr",Театр
+http://tv.makeevka.com/channel/260/index.m3u8
+#EXTINF:0 tvg-name="izvestia",Известия
+http://tv.makeevka.com/channel/261/index.m3u8
+#EXTINF:0 tvg-name="360-news",360° Новости
+http://tv.makeevka.com/channel/262/index.m3u8
+#EXTINF:0 tvg-name="newsfront",NewsFront
+http://tv.makeevka.com/channel/263/index.m3u8
+#EXTINF:0 tvg-name="12-omsk",ОРТРК - 12 Канал
+http://tv.makeevka.com/channel/264/index.m3u8
+#EXTINF:0 tvg-name="bolshaya-azia",Большая Азия
+http://tv.makeevka.com/channel/265/index.m3u8
+#EXTINF:0 tvg-name="bst",БСТ
+http://tv.makeevka.com/channel/266/index.m3u8
+#EXTINF:0 tvg-name="volga",Волга
+http://tv.makeevka.com/channel/267/index.m3u8
+#EXTINF:0 tvg-name="grozny",Грозный
+http://tv.makeevka.com/channel/268/index.m3u8
+#EXTINF:0 tvg-name="don-24",Дон24
+http://tv.makeevka.com/channel/269/index.m3u8
+#EXTINF:0 tvg-name="enisey-region",Енисей
+http://tv.makeevka.com/channel/270/index.m3u8
+#EXTINF:0 tvg-name="zagorodnaya-zhizn",Загородная жизнь
+http://tv.makeevka.com/channel/271/index.m3u8
+#EXTINF:0 tvg-name="kazakh-tv",Kazakh TV
+http://tv.makeevka.com/channel/272/index.m3u8
+#EXTINF:0 tvg-name="katun-24",Катунь 24
+http://tv.makeevka.com/channel/273/index.m3u8
+#EXTINF:0 tvg-name="mir-belogoria",Мир Белогорья
+http://tv.makeevka.com/channel/274/index.m3u8
+#EXTINF:0 tvg-name="doverie",Москва Доверие
+http://tv.makeevka.com/channel/275/index.m3u8
+#EXTINF:0 tvg-name="nasha-tema",Наша Тема
+http://tv.makeevka.com/channel/276/index.m3u8
+#EXTINF:0 tvg-name="otv-chelyabinsk",ОТВ Челябинск
+http://tv.makeevka.com/channel/277/index.m3u8
+#EXTINF:0 tvg-name="sankt-peterburg",Санкт-Петербург
+http://tv.makeevka.com/channel/278/index.m3u8
+#EXTINF:0 tvg-name="tnv-planeta",ТНВ Татарстан
+http://tv.makeevka.com/channel/279/index.m3u8
+#EXTINF:0 tvg-name="tugan-tel",Туган тел
+http://tv.makeevka.com/channel/280/index.m3u8
+#EXTINF:0 tvg-name="udmurtia",Удмуртия
+http://tv.makeevka.com/channel/281/index.m3u8
+#EXTINF:0 tvg-name="",Хабар 24
+http://tv.makeevka.com/channel/282/index.m3u8
+#EXTINF:0 tvg-name="chavash-en",Чаваш Ен
+http://tv.makeevka.com/channel/283/index.m3u8
+#EXTINF:0 tvg-name="kuraj",Курай ТВ
+http://tv.makeevka.com/channel/284/index.m3u8
+#EXTINF:0 tvg-name="m1global",MMA-TV.com / М-1 Global
+http://tv.makeevka.com/channel/286/index.m3u8
+#EXTINF:0 tvg-name="motorsportv-tv",Моторспорт.тв
+http://tv.makeevka.com/channel/287/index.m3u8
+#EXTINF:0 tvg-name="uspex",Успех
+http://tv.makeevka.com/channel/288/index.m3u8
+#EXTINF:0 tvg-name="hsr24",HSR24
+http://tv.makeevka.com/channel/289/index.m3u8
+#EXTINF:0 tvg-name="yuvelirochka",Ювелирочка
+http://tv.makeevka.com/channel/290/index.m3u8
+#EXTINF:0 tvg-name="leomax24",Leomax 24
+http://tv.makeevka.com/channel/291/index.m3u8
+#EXTINF:0 tvg-name="shopping-live",Shopping Live
+http://tv.makeevka.com/channel/292/index.m3u8
+#EXTINF:0 tvg-name="shop-n-show",Shop & Show
+http://tv.makeevka.com/channel/293/index.m3u8
+#EXTINF:0 tvg-name="san-poto",San Porto
+http://tv.makeevka.com/channel/294/index.m3u8
